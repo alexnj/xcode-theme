@@ -202,6 +202,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>User Defined Functions</string>
+			<key>scope</key>
+			<string>support.function.any-method</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#42257C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Library constant</string>
 			<key>scope</key>
 			<string>support.constant</string>
