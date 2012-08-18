@@ -33,7 +33,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#007400</string>
+				<string>#008D00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -44,7 +44,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#643832</string>
+				<string>#7C4625</string>
 			</dict>
 		</dict>
 		<dict>
@@ -55,7 +55,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C41A16</string>
+				<string>#DD0004</string>
 			</dict>
 		</dict>
 		<dict>
