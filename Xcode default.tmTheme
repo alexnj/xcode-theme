@@ -141,7 +141,8 @@
 			<key>scope</key>
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
-			<dict>
+            <dict>
+                <key>foreground</key>
 				<string>#5C2699</string>>
 			</dict>
 		</dict>
