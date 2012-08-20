@@ -22,6 +22,10 @@ In Windows:
 
 `%APPDATA%\Sublime Text 2/Packages/Color Scheme - Default`
 
+## ScreenShots
+
+![screenshot](http://cloud.github.com/downloads/ElDeveloper/xcode-default.tmtheme/sample.png)
+
 [xcode]: http://developer.apple.com/technologies/tools/xcode.html
 [textmate]: http://macromates.com/
 [Sublime Text 2]: http://www.sublimetext.com/2
