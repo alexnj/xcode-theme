@@ -95,11 +95,22 @@
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable.language, variable.other</string>
+			<string>variable.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C800A4</string>
+				<string>#C800A7</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5C2699</string>
 			</dict>
 		</dict>
 		<dict>
@@ -110,7 +121,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AA0D91</string>
+				<string>#C800A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -121,7 +132,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AA0D91</string>
+				<string>#C800A7</string>
 			</dict>
 		</dict>
 		<dict>
