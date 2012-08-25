@@ -4,11 +4,11 @@ A [TextMate][] or [Sublime Text 2][] theme based on the default [Xcode][] theme.
 
 ## TextMate Installation
 
-Just double-click or `open` the `Xcode default.tmTheme` file and TextMate will take care of installing it for you.
+Download and unzipp this [file][], double-click or `open` the `Xcode default.tmTheme` file and TextMate will take care of installing it for you.
 
 ## Sublime Text 2 Installation
 
-Add Xcode default.tmTheme to your `Color Scheme - Default` folder.
+Download and unzipp this [file][], then add Xcode default.tmTheme to your `Color Scheme - Default` folder.
 
 In OS X:
 
@@ -24,8 +24,11 @@ In Windows:
 
 ## ScreenShots
 
+Using Python:
+
 ![screenshot](http://cloud.github.com/downloads/ElDeveloper/xcode-default.tmtheme/sample.png)
 
 [xcode]: http://developer.apple.com/technologies/tools/xcode.html
 [textmate]: http://macromates.com/
 [Sublime Text 2]: http://www.sublimetext.com/2
+[file]: https://github.com/downloads/ElDeveloper/xcode-default.tmtheme/xcode_theme.zip
