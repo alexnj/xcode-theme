@@ -32,3 +32,7 @@ Using Python:
 [textmate]: http://macromates.com/
 [Sublime Text 2]: http://www.sublimetext.com/2
 [file]: https://github.com/downloads/ElDeveloper/xcode-default.tmtheme/xcode_theme.zip
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ElDeveloper/xcode-default.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
