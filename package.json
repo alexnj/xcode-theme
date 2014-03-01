@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "1.0.0",
   "description": "Xcode-looking color scheme",
-  "repository": "https://github.com/ElDeveloper/xcode-default",
+  "repository": "https://github.com/ElDeveloper/xcode-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
