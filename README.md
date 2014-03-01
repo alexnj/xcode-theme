@@ -6,7 +6,7 @@ A [TextMate][], [Atom][] or [Sublime Text 2][] theme based on the default [Xcode
 
 
 Atom:
-![screenshot](http://i.imgur.com/amYwbtS.png)
+![screenshot](http://i.imgur.com/Vt5K3zK.png)
 
 TextMate:
 ![screenshot](http://i.imgur.com/XqXgJ0u.png)
@@ -46,4 +46,3 @@ In Windows:
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ElDeveloper/xcode-default.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
