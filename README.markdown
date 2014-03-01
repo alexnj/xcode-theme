@@ -1,12 +1,28 @@
 # Xcode default.tmTheme
 
-A [TextMate][] or [Sublime Text 2][] theme based on the default [Xcode][] theme. Remember than this is only a color scheme, to have the full look of Xcode you will also need to add Menlo Regular 11.0 as your font.
+A [TextMate][], [Atom][] or [Sublime Text 2][] theme based on the default [Xcode][] theme. Remember than this is only a color scheme, to have the full look of Xcode you will also need to add Menlo Regular 11.0 as your font.
 
-## TextMate Installation
+## ScreenShots
+
+
+Atom:
+![screenshot](http://i.imgur.com/amYwbtS.png)
+
+TextMate:
+![screenshot](http://i.imgur.com/XqXgJ0u.png)
+
+Sublime Text:
+![screenshot](http://i.imgur.com/V9XTwbz.png)
+
+### Atom
+
+`Atom` -> `Preferences` -> `Themes` and type Xcode. Alternatively you can download the theme [files](https://github.com/ElDeveloper/xcode-default.tmtheme/archive/master.zip), decompress the contents and move the resulting folder to `~/.atom/packages/`.
+
+### TextMate Installation
 
 Download and unzipp this [file][], double-click or `open` the `Xcode default.tmTheme` file and TextMate will take care of installing it for you.
 
-## Sublime Text 2 Installation
+### Sublime Text 2 Installation
 
 Download and unzipp this [file][], then add Xcode default.tmTheme to your `Color Scheme - Default` folder.
 
@@ -22,13 +38,8 @@ In Windows:
 
 `%APPDATA%\Sublime Text 2/Packages/Color Scheme - Default`
 
-## ScreenShots
-
-Using Python:
-
-![screenshot](http://cloud.github.com/downloads/ElDeveloper/xcode-default.tmtheme/sample.png)
-
 [xcode]: http://developer.apple.com/technologies/tools/xcode.html
 [textmate]: http://macromates.com/
 [Sublime Text 2]: http://www.sublimetext.com/2
+[Atom]: http://atom.io
 [file]: https://github.com/downloads/ElDeveloper/xcode-default.tmtheme/xcode_theme.zip
