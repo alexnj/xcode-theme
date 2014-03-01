@@ -1,4 +1,4 @@
-# Xcode default.tmTheme
+# Xcode Theme
 
 A [TextMate][], [Atom][] or [Sublime Text 2][] theme based on the default [Xcode][] theme. Remember than this is only a color scheme, to have the full look of Xcode you will also need to add Menlo Regular 11.0 as your font.
 
