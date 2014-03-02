@@ -20,7 +20,7 @@
 }
 
 .editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
-  background-color: rgba(0, 0, 0, 0.07);
+  background-color: rgba(255, 225, 53, 0.3);
 }
 
 .comment {
@@ -35,6 +35,7 @@
   color: #DD0004;
 }
 
+
 .constant.numeric {
   color: #1C00CF;
 }
@@ -42,6 +43,7 @@
 .constant.language {
   color: #C800A7;
 }
+
 
 .constant.character, .constant.other {
   color: #26474B;
@@ -108,6 +110,13 @@
 }
 
 .invalid {
+    color: #F8F8F0;
+    ackground-color: #F92672;
+}
+
+.link {
+  color: #0E0EFF;
+  text-decoration: underline;
 }
 
 .markup.bold {
@@ -120,8 +129,14 @@
   color: #DD0004;
 }
 
+.markup.heading{
+  font-weight: bold;
+  color:#C800A7;
+}
+
 .markup.underline {
-  color: #42257C;
+  color: #0E0EFF;
+  text-decoration: underline;
 }
 
 .markup.quote {
@@ -136,4 +151,12 @@
 .markup.heading {
   font-weight: bold;
   color: #42257C;
+}
+
+.markup.quote {
+  color:#7C4625;
+}
+
+.markup.quote {
+  color:#7C4625;
 }
