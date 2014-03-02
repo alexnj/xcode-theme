@@ -7,5 +7,7 @@
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  }
+  },
+  "credits": {"Carmine Paolino" : "@crmne", "Adam Lickel" : "@lickel",
+              "Yoshiki Vazquez-Baeza" : "@ElDeveloper"}
 }
