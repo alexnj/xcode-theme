@@ -1,13 +1,16 @@
 {
   "name": "xcode-theme",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Xcode-looking color scheme",
   "repository": "https://github.com/ElDeveloper/xcode-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "credits": {"Carmine Paolino" : "@crmne", "Adam Lickel" : "@lickel",
-              "Yoshiki Vazquez-Baeza" : "@ElDeveloper"}
+  "credits": {
+    "Carmine Paolino": "@crmne",
+    "Adam Lickel": "@lickel",
+    "Yoshiki Vazquez-Baeza": "@ElDeveloper"
+  }
 }
