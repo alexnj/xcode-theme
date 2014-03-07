@@ -1,7 +1,7 @@
 {
   "name": "xcode-theme",
   "theme": "syntax",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Xcode-looking color scheme",
   "repository": "https://github.com/ElDeveloper/xcode-theme",
   "license": "MIT",
