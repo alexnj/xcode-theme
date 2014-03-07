@@ -6,7 +6,7 @@ A [TextMate][], [Atom][] or [Sublime Text 2][] theme based on the default [Xcode
 
 
 Atom (in `Preferences->Themes` search for `xcode-theme`):
-![screenshot](http://i.imgur.com/Vt5K3zK.png)
+![screenshot](http://i.imgur.com/Gr29tpI.png)
 
 TextMate:
 ![screenshot](http://i.imgur.com/XqXgJ0u.png)
