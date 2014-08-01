@@ -148,17 +148,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Inherited class</string>
-			<key>scope</key>
-			<string>entity.other.inherited-class</string>
-			<key>settings</key>
-            <dict>
-                <key>foreground</key>
-				<string>#5C2699</string>>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
 			<string>entity.name.function</string>
